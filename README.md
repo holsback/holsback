@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Bruno</h1>
 
-<!--
-**holsback/holsback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,mysql,spring,azure)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Linkedin: Bruno](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bruno-holsback-melo-8813b921b/)](https://www.linkedin.com/in/bruno-holsback-melo-8813b921b/)<br><br>
+
+
+![holsback GitHub stats](https://github-readme-stats.vercel.app/api?username=holsback&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+
+
+
