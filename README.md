@@ -15,9 +15,6 @@
 
 [![Linkedin: Bruno](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bruno-holsback-melo-8813b921b/)](https://www.linkedin.com/in/bruno-holsback-melo-8813b921b/)<br><br>
 
-
-![holsback GitHub stats](https://github-readme-stats.vercel.app/api?username=holsback&show_icons=true&theme=radical)
-
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
 
 
